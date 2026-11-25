@@ -9,6 +9,12 @@ Incident response and digital forensics case write-ups (CyberDefenders, BTLO, Tr
 - [ ] Windows artifacts cheatsheet: artifact → what it proves
 - [ ] Playbooks: phishing, ransomware, compromised account
 
+## Cases
+
+| # | Case | Source |
+| --- | --- | --- |
+| 001 | [Suspicious HTTP traffic](cases/001-http-traffic/) | Own case study |
+
 ## Repository structure
 
 ```
